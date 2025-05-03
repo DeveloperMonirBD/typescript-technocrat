@@ -3,4 +3,4 @@
 // 3. tsc --init
 // 4. tsc
 // 5. tsc -w
-// 6. node dist/hello-world.js 
+// 6. node module1/dist/1.12.js 
